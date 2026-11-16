@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I have moved to https://github.com/benjamin-ajah
 
 <!--
 **the-anointed-one/the-anointed-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
